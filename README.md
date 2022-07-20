@@ -30,9 +30,9 @@ hi, i'm deepak gohil, a computer science enthusiast and a passionate self-taught
 
 **📈 my github stats**
 
-<img float="left" src="https://github-readme-stats.vercel.app/api?username=GohilDeepak009&show_icons=true&theme=material-palenight" alt="Deepak Gohil" />
+<img flex="75%" src="https://github-readme-stats.vercel.app/api?username=GohilDeepak009&show_icons=true&theme=material-palenight" alt="Deepak Gohil" />
 <br>
-<img float="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GohilDeepak009&theme=material-palenight&langs_count=8&layout=compact&hide=css,html" alt="Deepak Gohil" width="330px"/>
+<img flex="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GohilDeepak009&theme=material-palenight&langs_count=8&layout=compact&hide=css,html" alt="Deepak Gohil" width="330px"/>
 <br>
 
 <div>
