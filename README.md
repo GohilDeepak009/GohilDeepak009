@@ -32,9 +32,9 @@ hi, i'm deepak gohil, a computer science enthusiast and a passionate self-taught
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=GohilDeepak009&show_icons=true&theme=material-palenight" alt="Deepak Gohil" />
 <br>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GohilDeepak009&theme=material-palenight&langs_count=8&layout=compact&hide=css,html" alt="Deepak Gohil" width="330px" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GohilDeepak009&theme=material-palenight&langs_count=8&layout=compact&hide=css,html" alt="Deepak Gohil" width="320px" />
 
-<br>
+
 <h3>Where to find me</h3>
 
 <p align="center "><a href="https://github.com/GohilDeepak009" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/_Deepak_Gohil?s=09" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/deepak-gohil-a26010228" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
