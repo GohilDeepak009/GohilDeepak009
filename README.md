@@ -26,9 +26,7 @@ hi, i'm deepak gohil, a computer science enthusiast and a passionate self-taught
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/2810941?s=200&v=4"></code>
 
-<br>
 📈 my github stats
-
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=GohilDeepak009&show_icons=true&theme=material-palenight" alt="Deepak Gohil" />
 
 <h3>Where to find me</h3>
