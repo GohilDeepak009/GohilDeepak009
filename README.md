@@ -32,8 +32,8 @@ hi, i'm deepak gohil, a computer science enthusiast and a passionate self-taught
 
 <table>
   <tr>
-<td><img align="right" src="https://github-readme-stats.vercel.app/api?username=GohilDeepak009&show_icons=true&theme=material-palenight" alt="Deepak Gohil" width="480"/></td>
-<td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GohilDeepak009&theme=material-palenight&langs_count=8&layout=compact&hide=css,html" alt="Deepak Gohil" width="300"/></td>
+<td><img align="right" src="https://github-readme-stats.vercel.app/api?username=GohilDeepak009&show_icons=true&theme=material-palenight" alt="Deepak Gohil" width="100%"/></td>
+<td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GohilDeepak009&theme=material-palenight&langs_count=8&layout=compact&hide=css,html" alt="Deepak Gohil" width="100%"/></td>
 </tr>
 <table
 <br>
