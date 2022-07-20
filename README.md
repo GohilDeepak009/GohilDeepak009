@@ -32,7 +32,7 @@ hi, i'm deepak gohil, a computer science enthusiast and a passionate self-taught
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=GohilDeepak009&show_icons=true&theme=material-palenight" alt="Deepak Gohil" />
 <br>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GohilDeepak009&theme=material-palenight&langs_count=8&layout=compact&hide=css,html" alt="Deepak Gohil" width="150px" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GohilDeepak009&theme=material-palenight&langs_count=8&layout=compact&hide=css,html" alt="Deepak Gohil" width="250px" />
 
 
 <h3>Where to find me</h3>
